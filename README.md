@@ -175,9 +175,9 @@ If it runs without errors, give a little cheer, and then press Ctrl+C to stop it
 - Stop bot: `pm2 stop my_bot`
 
 Congratulations! Your bot is now hosted on Linode and will run continuously.
-For any further information, or to ask questions/berate my life choices, you can contact me at <REDACTED>
+For any further information, or to ask questions/berate my life choices, you can contact me at  **\<REDACTED\>**
 ## Security Note
 For improved security, consider creating a non-root user, setting up a firewall, and configuring SSH key authentication. These topics are beyond the scope of this beginner guide but are important for a production environment.
 
 ^listen to Claude. Keywords for your hardening research: `fail2ban`, `ufw`, `ssh key authentication`. Linode has built-in support for that last one, you may have seen some stuff about that during the provisioning of the host in step 1.
-TTFN!!
+GL, HF, TTFN!
